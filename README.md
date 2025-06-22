@@ -3,8 +3,7 @@ Kochanet Test DRF Project - codename Healthpal
 The lightweight DRF/PostgreSQL app for patient and assessment management.
 Done MVP + bonus tasks.
 
-Note: Running public demo on http://featurelle-kochanet-healthpal.space (DEBUG is on for test purposes)\
-You can test admin panel and API
+Demo (AWS Lightsail) http://featurelle-kochanet-healthpal.space CURRENTLY OFF ❎
 ***
 
 Setup
